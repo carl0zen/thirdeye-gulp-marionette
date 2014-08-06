@@ -1,0 +1,18 @@
+@import 'apps/header/src/scss/config';
+
+//** Override module default configuration
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+
+$header_logo_url				: 'images/logo_thirdeye.svg';
+$header_logo_width				: 395px;
+$header_logo_height				: 90px;
+$header_logo_position			: right;
+$header_nav_position			: left;
+$header_heading_color			:#2c4d4d;
+$header_font_color				:#2c4d4d;
+$header_font_family				:Arial,sans-serif;
+$header_link_background			:#68baba;
+$header_link_color				:#fff;
+$header_link_padding			:20px 30px;
+$header_link_text_decoration	:none;
+$header_link_font_family		: 'Open Sans';

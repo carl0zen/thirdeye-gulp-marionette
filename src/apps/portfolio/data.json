@@ -1,0 +1,10 @@
+{
+	"moduleName"			: "header",
+	"moduleDescription" 	: "This renders the header section of the site",
+	"moduleData"			: [
+		{"name":"Getting started",		"url":"#home"},
+		{"name":"Modules",				"url":"#modules"},
+		{"name":"Architecture",			"url":"#architecture"},
+		{"name":"Contact",				"url":"#contact"}
+	]
+}

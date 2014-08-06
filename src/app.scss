@@ -1,0 +1,16 @@
+@import 'compass/reset';
+//This is where you customize the look and feel of the module
+@import 'scss/moduleConfig'; 
+//Module style loader
+@import 'apps/header/src/scss/app';
+
+//Components style loader
+@import 'components/buttons';
+
+//App look and feel
+body{
+	-webkit-font-smoothing: antialiased;
+	color: #555;
+	font-family: sans-serif;
+	color: #69b4b4
+}
